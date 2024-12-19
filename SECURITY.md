@@ -9,4 +9,4 @@
 
 ## Reporting a Vulnerability
 
-If u find any vulnerability, u can create issue and report it
+If u find any vulnerability, u can create a draft security advisory 
